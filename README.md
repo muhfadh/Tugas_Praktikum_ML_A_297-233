@@ -1,4 +1,4 @@
-# Acral Melanoma Detection
+# ⚡️ Acral Melanoma Detection ⚡️
 
 Project ini adalah untuk mendeteksi Acral Melanoma (*Skin Cancer in hand and foot*) dengan *Dermoscopic Images*.
 
@@ -6,10 +6,14 @@ Project ini adalah untuk mendeteksi Acral Melanoma (*Skin Cancer in hand and foo
 
 **Paper Rujukan :** [Acral melanoma detection using dermoscopic images and convolutional neural networks](https://vciba.springeropen.com/articles/10.1186/s42492-021-00091-z)
 
-## Authors
+## 👩‍💻👩‍💻 Authors
 
 - [@muhfadh](https://www.github.com/muhfadh)
 - [@Naufal-FTech](https://github.com/Naufal-FTech)
+
+<a href="https://github.com/anuraghazra/github-readme-stats/actions">
+  <img alt="Language Python" src="https://img.shields.io/badge/Language-Python-blue" />
+</a>
 
 
 
