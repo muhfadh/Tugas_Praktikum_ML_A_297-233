@@ -119,7 +119,52 @@ Splitting Dataset : Training = 70%, Validation = 20%, Testing = 10%
   ![image](https://user-images.githubusercontent.com/43193982/143899783-e5051c8d-d12e-4313-b5b7-dd128f26d85a.png)
  
 
+- **Preprocessing Model 6  & 7 dengan HyperParameter Tuning** : rotation_range=15, horizontal_flip=True,shear_range = 0.2, zoom_range = 0.2, width_shift_range=0.1, height_shift_range=0.1
+
+- Modelling Model 6 : {'num_units': 64, 'dropout': 0.2, 'optimizer': 'sgd'}
+
+  Summary Model 6
+  
+  ![image](https://user-images.githubusercontent.com/43193982/143978324-0a831980-baa5-4a07-b310-2d612505e2d8.png)
+  
+  
+  Graph Loss dan Accuracy Model 6 :
+  
+  ![image](https://user-images.githubusercontent.com/43193982/143978373-eb6195b8-23f0-4f63-ab37-f4f2a71e2b04.png)
+
+
+  Evaluation Matrix Model 6 :
+  
+  ![image](https://user-images.githubusercontent.com/43193982/143978396-78bb326a-905a-4297-a69b-64f9ffa13a84.png)
+
+
+- Modelling Model 7 : {'num_units': 256, 'dropout': 0.1, 'optimizer': 'adam'} 
+
+  Summary Model 7
+  
+  ![image](https://user-images.githubusercontent.com/43193982/143978630-99a26210-6b87-48ef-97cf-6441a5e2571e.png)
+  
+  
+  Graph Loss dan Accuracy Model 7 :
+  
+  ![image](https://user-images.githubusercontent.com/43193982/143978678-bb0019aa-d064-410d-89de-cb23e9fb207e.png)
+
+
+  Evaluation Matrix Model 7 :
+  
+  ![image](https://user-images.githubusercontent.com/43193982/143978708-aedf4c56-59ba-4fcc-91a7-c295fb338395.png)
+
+
 ## Predict Data
+
+- Predict Data dengan Model 6 :
+
+![image](https://user-images.githubusercontent.com/43193982/143978948-78986fe3-b210-405e-846a-1c4fb4aedb1a.png)
+
+
+- Predict Data dengan Model 7 :
+
+![image](https://user-images.githubusercontent.com/43193982/143979024-e5c37150-1d01-41e7-b9e0-812dd8fb6a14.png)
 
 
 
