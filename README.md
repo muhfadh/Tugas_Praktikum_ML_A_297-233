@@ -153,6 +153,43 @@ Splitting Dataset : Training = 70%, Validation = 20%, Testing = 10%
   Evaluation Matrix Model 7 :
   
   ![image](https://user-images.githubusercontent.com/43193982/143978708-aedf4c56-59ba-4fcc-91a7-c295fb338395.png)
+  
+ - Modelling dengan Pretrained Model VGG19 :
+   
+   Summary Model :
+   
+   ![image](https://user-images.githubusercontent.com/43193982/145917341-385f4747-abf1-485a-a302-0924213c8ac4.png)
+
+
+   Graph Loss dan Accuracy Model :
+   
+   ![image](https://user-images.githubusercontent.com/43193982/145917426-465f0fce-dbba-401d-8c67-37bb321b83a8.png)
+
+    
+   Evaluation Matrix Model :
+   
+   ![image](https://user-images.githubusercontent.com/43193982/145917549-d1ce8e48-59a8-460b-a5c5-42e342726398.png)
+
+   
+
+
+ - Modelling dengan Pretrained DenseNet201 :
+ - 
+   Summary Model :
+   
+   (Summary terlalu panjang sehingga hanya bagian FC saja)
+   
+   ![image](https://user-images.githubusercontent.com/43193982/145918013-d8d264b6-1d3f-422b-870a-8126882610be.png)
+
+
+   Graph Loss dan Accuracy Model :
+   
+   ![image](https://user-images.githubusercontent.com/43193982/145918051-d52e61b9-d360-4cab-a38a-215d94167da1.png)
+
+    
+   Evaluation Matrix Model :
+   
+   ![image](https://user-images.githubusercontent.com/43193982/145918122-e2e6f36f-a5d2-4f21-b625-9221e1716661.png)
 
 
 ## Predict Data
@@ -165,6 +202,10 @@ Splitting Dataset : Training = 70%, Validation = 20%, Testing = 10%
 - Predict Data dengan Model 7 :
 
 ![image](https://user-images.githubusercontent.com/43193982/143979024-e5c37150-1d01-41e7-b9e0-812dd8fb6a14.png)
+
+- Predict dengan 2 Model Pretrained VGG19 dan DenseNet201 :
+
+![image](https://user-images.githubusercontent.com/43193982/145918235-bd614443-fce9-4081-97c0-aafe66f44b72.png)
 
 
 
