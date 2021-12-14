@@ -205,7 +205,7 @@ Splitting Dataset : Training = 70%, Validation = 20%, Testing = 10%
 
 - Predict dengan 2 Model Pretrained VGG19 dan DenseNet201 :
 
-![image](https://user-images.githubusercontent.com/43193982/145918235-bd614443-fce9-4081-97c0-aafe66f44b72.png)
+![image](https://user-images.githubusercontent.com/43193982/145918349-5f324a40-8b5e-4f7d-817a-b4f59bcb42ab.png)
 
 
 
