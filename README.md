@@ -207,6 +207,12 @@ Splitting Dataset : Training = 70%, Validation = 20%, Testing = 10%
 
 ![image](https://user-images.githubusercontent.com/43193982/145918349-5f324a40-8b5e-4f7d-817a-b4f59bcb42ab.png)
 
+## Local Development
+
+![image](https://user-images.githubusercontent.com/43193982/147548558-9a85d443-3660-46b2-850f-3cad2ce36675.png)
+
+
+![image](https://user-images.githubusercontent.com/43193982/147548595-9739cda3-44ee-4ab3-abd5-b6c60f3acaac.png)
 
 
 ## 👩‍💻👩‍💻 Authors
